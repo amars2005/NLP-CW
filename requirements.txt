@@ -11,3 +11,5 @@ huggingface_hub
 sentencepiece
 tiktoken
 protobuf
+matplotlib
+sklearn
