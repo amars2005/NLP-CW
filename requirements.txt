@@ -12,4 +12,6 @@ sentencepiece
 tiktoken
 protobuf
 matplotlib
-sklearn
+seaborn
+python-dotenv
+optuna 
